@@ -54,3 +54,11 @@ if you don't know how to use github edit this file by clicking on the pencil. an
   1. Constant changes to better humanity.
   2. Looking to connect with people to develop their skills and abilities.
   3. I wish this group was created before so that we can help foster the develop of people interested in technology and design.
+
+#### Brian Minh Nguyen - Houston, TX
+##### UNAVSA, UVSA South, UH VSA
+
+  1. The fact that it so integrated into our lives and that it is constantly evolving (tommy took the words from my mouth).
+  2. To learn and improve my feeble coding skills
+  3. I am currently in my last year of college as an MIS major, and I have a feeling that I will learn more coding in this group than I have this past school year.
+  
